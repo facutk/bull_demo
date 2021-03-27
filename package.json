@@ -10,6 +10,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:facutk/bull_demo.git"
+  },
   "dependencies": {
     "bull": "^3.22.0",
     "bull-board": "^1.5.1",
